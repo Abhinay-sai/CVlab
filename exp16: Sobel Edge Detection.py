@@ -32,4 +32,5 @@ cv2.imshow("Sobel Y", sobel_y)
 cv2.imshow("Sobel Combined", sobel_combined)
 
 cv2.waitKey(0)
+
 cv2.destroyAllWindows()
