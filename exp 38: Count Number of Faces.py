@@ -37,4 +37,5 @@ cv2.putText(image,
 
 cv2.imshow("Face Counting", image)
 cv2.waitKey(0)
+
 cv2.destroyAllWindows()
