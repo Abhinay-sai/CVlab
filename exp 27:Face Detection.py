@@ -25,4 +25,5 @@ for (x, y, w, h) in faces:
 # Show result
 cv2.imshow("Face Detection", image)
 cv2.waitKey(0)
+
 cv2.destroyAllWindows()
