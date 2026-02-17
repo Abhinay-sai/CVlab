@@ -23,4 +23,5 @@ cv2.imshow("Original Image", gray)
 cv2.imshow("Black Hat Operation", blackhat)
 
 cv2.waitKey(0)
+
 cv2.destroyAllWindows()
